@@ -1,0 +1,1 @@
+This project's aim is to build a 'Rock Paper Scissors' game that runs in the console to help apply the knowledge I have gained in the Javascript Foundation lessons so far.
